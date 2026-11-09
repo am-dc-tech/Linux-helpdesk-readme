@@ -101,6 +101,3 @@ sudo apt install <package> # Install a package
 sudo apt remove <package>  # Remove a package
 ```
 
----
-
-> 💡 **Tips:** Use `Tab` to autocomplete, `↑` to repeat last command, `man <command>` for help.
